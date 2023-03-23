@@ -1,0 +1,33 @@
+[0.614s] Invoking command in '/home/siddarth/turtle_pong/src/ping_pong': PYTHONPATH=/home/siddarth/turtle_pong/src/build/ping_pong/prefix_override:/home/siddarth/turtle_pong/src/install/ping_pong/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/ping_pong build --build-base /home/siddarth/turtle_pong/src/build/ping_pong/build install --record /home/siddarth/turtle_pong/src/build/ping_pong/install.log --single-version-externally-managed
+[0.837s] running egg_info
+[0.839s] creating ../build/ping_pong/ping_pong.egg-info
+[0.839s] writing ../build/ping_pong/ping_pong.egg-info/PKG-INFO
+[0.839s] writing dependency_links to ../build/ping_pong/ping_pong.egg-info/dependency_links.txt
+[0.839s] writing entry points to ../build/ping_pong/ping_pong.egg-info/entry_points.txt
+[0.839s] writing requirements to ../build/ping_pong/ping_pong.egg-info/requires.txt
+[0.839s] writing top-level names to ../build/ping_pong/ping_pong.egg-info/top_level.txt
+[0.839s] writing manifest file '../build/ping_pong/ping_pong.egg-info/SOURCES.txt'
+[0.840s] reading manifest file '../build/ping_pong/ping_pong.egg-info/SOURCES.txt'
+[0.841s] writing manifest file '../build/ping_pong/ping_pong.egg-info/SOURCES.txt'
+[0.841s] running build
+[0.841s] running build_py
+[0.841s] creating /home/siddarth/turtle_pong/src/build/ping_pong/build
+[0.842s] creating /home/siddarth/turtle_pong/src/build/ping_pong/build/lib
+[0.842s] creating /home/siddarth/turtle_pong/src/build/ping_pong/build/lib/ping_pong
+[0.842s] copying ping_pong/__init__.py -> /home/siddarth/turtle_pong/src/build/ping_pong/build/lib/ping_pong
+[0.843s] running install
+[0.843s] running install_lib
+[0.844s] creating /home/siddarth/turtle_pong/src/install/ping_pong/lib/python3.10/site-packages/ping_pong
+[0.844s] copying /home/siddarth/turtle_pong/src/build/ping_pong/build/lib/ping_pong/__init__.py -> /home/siddarth/turtle_pong/src/install/ping_pong/lib/python3.10/site-packages/ping_pong
+[0.845s] byte-compiling /home/siddarth/turtle_pong/src/install/ping_pong/lib/python3.10/site-packages/ping_pong/__init__.py to __init__.cpython-310.pyc
+[0.845s] running install_data
+[0.846s] creating /home/siddarth/turtle_pong/src/install/ping_pong/share/ament_index
+[0.846s] creating /home/siddarth/turtle_pong/src/install/ping_pong/share/ament_index/resource_index
+[0.846s] creating /home/siddarth/turtle_pong/src/install/ping_pong/share/ament_index/resource_index/packages
+[0.847s] copying resource/ping_pong -> /home/siddarth/turtle_pong/src/install/ping_pong/share/ament_index/resource_index/packages
+[0.847s] copying package.xml -> /home/siddarth/turtle_pong/src/install/ping_pong/share/ping_pong
+[0.847s] running install_egg_info
+[0.849s] Copying ../build/ping_pong/ping_pong.egg-info to /home/siddarth/turtle_pong/src/install/ping_pong/lib/python3.10/site-packages/ping_pong-0.0.0-py3.10.egg-info
+[0.850s] running install_scripts
+[0.870s] writing list of installed files to '/home/siddarth/turtle_pong/src/build/ping_pong/install.log'
+[0.893s] Invoked command in '/home/siddarth/turtle_pong/src/ping_pong' returned '0': PYTHONPATH=/home/siddarth/turtle_pong/src/build/ping_pong/prefix_override:/home/siddarth/turtle_pong/src/install/ping_pong/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/ping_pong build --build-base /home/siddarth/turtle_pong/src/build/ping_pong/build install --record /home/siddarth/turtle_pong/src/build/ping_pong/install.log --single-version-externally-managed

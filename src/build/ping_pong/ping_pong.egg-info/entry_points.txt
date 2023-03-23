@@ -1,0 +1,4 @@
+[console_scripts]
+ball = ping_pong.ball:main
+paddles = ping_pong.paddles:main
+

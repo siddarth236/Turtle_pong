@@ -1,0 +1,24 @@
+[0.590s] Invoking command in '/home/siddarth/turtle_pong/build/ping_pong': PYTHONPATH=/home/siddarth/turtle_pong/build/ping_pong/prefix_override:/home/siddarth/turtle_pong/install/ping_pong/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/siddarth/turtle_pong/build/ping_pong/build --no-deps install_data
+[0.831s] running develop
+[0.981s] running egg_info
+[0.981s] creating ping_pong.egg-info
+[0.984s] writing ping_pong.egg-info/PKG-INFO
+[0.984s] writing dependency_links to ping_pong.egg-info/dependency_links.txt
+[0.984s] writing entry points to ping_pong.egg-info/entry_points.txt
+[0.984s] writing requirements to ping_pong.egg-info/requires.txt
+[0.985s] writing top-level names to ping_pong.egg-info/top_level.txt
+[0.985s] writing manifest file 'ping_pong.egg-info/SOURCES.txt'
+[0.986s] reading manifest file 'ping_pong.egg-info/SOURCES.txt'
+[0.986s] writing manifest file 'ping_pong.egg-info/SOURCES.txt'
+[0.987s] running build_ext
+[0.988s] Creating /home/siddarth/turtle_pong/install/ping_pong/lib/python3.10/site-packages/ping-pong.egg-link (link to .)
+[0.988s] Installing begin_play script to /home/siddarth/turtle_pong/install/ping_pong/lib/ping_pong
+[0.988s] 
+[0.988s] Installed /home/siddarth/turtle_pong/build/ping_pong
+[0.989s] running install_data
+[0.989s] creating /home/siddarth/turtle_pong/install/ping_pong/share/ament_index
+[0.989s] creating /home/siddarth/turtle_pong/install/ping_pong/share/ament_index/resource_index
+[0.989s] creating /home/siddarth/turtle_pong/install/ping_pong/share/ament_index/resource_index/packages
+[0.989s] copying resource/ping_pong -> /home/siddarth/turtle_pong/install/ping_pong/share/ament_index/resource_index/packages
+[0.989s] copying package.xml -> /home/siddarth/turtle_pong/install/ping_pong/share/ping_pong
+[1.017s] Invoked command in '/home/siddarth/turtle_pong/build/ping_pong' returned '0': PYTHONPATH=/home/siddarth/turtle_pong/build/ping_pong/prefix_override:/home/siddarth/turtle_pong/install/ping_pong/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/siddarth/turtle_pong/build/ping_pong/build --no-deps install_data

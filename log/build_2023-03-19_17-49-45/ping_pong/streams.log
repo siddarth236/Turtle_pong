@@ -1,0 +1,18 @@
+[0.607s] Invoking command in '/home/siddarth/turtle_pong/build/ping_pong': PYTHONPATH=/home/siddarth/turtle_pong/build/ping_pong/prefix_override:/home/siddarth/turtle_pong/install/ping_pong/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/siddarth/turtle_pong/build/ping_pong/build --no-deps install_data
+[0.852s] running develop
+[1.002s] running egg_info
+[1.002s] writing ping_pong.egg-info/PKG-INFO
+[1.002s] writing dependency_links to ping_pong.egg-info/dependency_links.txt
+[1.002s] writing entry points to ping_pong.egg-info/entry_points.txt
+[1.002s] writing requirements to ping_pong.egg-info/requires.txt
+[1.003s] writing top-level names to ping_pong.egg-info/top_level.txt
+[1.004s] reading manifest file 'ping_pong.egg-info/SOURCES.txt'
+[1.005s] writing manifest file 'ping_pong.egg-info/SOURCES.txt'
+[1.006s] running build_ext
+[1.006s] Creating /home/siddarth/turtle_pong/install/ping_pong/lib/python3.10/site-packages/ping-pong.egg-link (link to .)
+[1.007s] Installing begin_play script to /home/siddarth/turtle_pong/install/ping_pong/lib/ping_pong
+[1.007s] 
+[1.007s] Installed /home/siddarth/turtle_pong/build/ping_pong
+[1.007s] running install_data
+[1.007s] copying package.xml -> /home/siddarth/turtle_pong/install/ping_pong/share/ping_pong
+[1.034s] Invoked command in '/home/siddarth/turtle_pong/build/ping_pong' returned '0': PYTHONPATH=/home/siddarth/turtle_pong/build/ping_pong/prefix_override:/home/siddarth/turtle_pong/install/ping_pong/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py develop --editable --build-directory /home/siddarth/turtle_pong/build/ping_pong/build --no-deps install_data

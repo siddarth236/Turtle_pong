@@ -1,0 +1,17 @@
+running develop
+running egg_info
+writing ping_pong.egg-info/PKG-INFO
+writing dependency_links to ping_pong.egg-info/dependency_links.txt
+writing entry points to ping_pong.egg-info/entry_points.txt
+writing requirements to ping_pong.egg-info/requires.txt
+writing top-level names to ping_pong.egg-info/top_level.txt
+reading manifest file 'ping_pong.egg-info/SOURCES.txt'
+writing manifest file 'ping_pong.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/siddarth/turtle_pong/src/install/ping_pong/lib/python3.10/site-packages/ping-pong.egg-link (link to .)
+Installing ball script to /home/siddarth/turtle_pong/src/install/ping_pong/lib/ping_pong
+Installing paddles script to /home/siddarth/turtle_pong/src/install/ping_pong/lib/ping_pong
+
+Installed /home/siddarth/turtle_pong/src/build/ping_pong
+running install_data
+copying package.xml -> /home/siddarth/turtle_pong/src/install/ping_pong/share/ping_pong
